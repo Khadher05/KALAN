@@ -8,7 +8,7 @@
 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐀𝐍𝐀+𝐌𝐖𝐎𝐋+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐀𝐁𝐔+𝘼𝙉𝘿+𝐒𝐀𝐍𝐀;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗞𝗔𝗟𝗔𝗡+𝗪𝗔+𝗕𝗢𝗧+𝗥𝗘𝗣𝗢.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝗞𝗔𝗟𝗔𝗡+;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -21,8 +21,8 @@
 <a href="#"><img title="Sana" src="https://img.shields.io/badge/Abu-Sana-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
-<p align="center">
-𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐂𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐒𝐀𝐍𝐀 𝐀𝐍𝐃 𝐀𝐁𝐔
+<p align="center"> 
+ 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗞𝗔𝗟𝗔𝗡
     <br>
        | © |
         Reserved |
@@ -48,5 +48,5 @@
 CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/UPo3niq.png" alt="kyrie.baran" height="50" width="300" /></a>
+  <a href="https://chat.whatsapp.com/DoWIJmbs5a3C25DxyV6OQA" target="blank"><img align="center" src="https://i.imgur.com/UPo3niq.png" alt="kyrie.baran" height="50" width="300" /></a>
 </p> 
