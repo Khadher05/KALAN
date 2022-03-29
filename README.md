@@ -47,6 +47,6 @@
 <p align="center">
 CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
     <br>
-<br>
-  <a href="https://chat.whatsapp.com/DoWIJmbs5a3C25DxyV6OQA" target="blank"><img align="center" src="https://i.imgur.com/UPo3niq.png" alt="kyrie.baran" height="50" width="300" /></a>
+<
+  <a href="https://chat.whatsapp.com/DoWIJmbs5a3C25DxyV6OQA" target="blank"><img align="center" src="JOIN KALAN SUPPORTING GROUP" alt="kyrie.baran" height="50" width="300" /></a>
 </p> 
