@@ -31,7 +31,7 @@
 
 
 
-<a href="https://github.com/Ajx-Abu/Sana-Mwol/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://github.com/Ajx-Abu/Sana-Mwol/fork"><img align="center" src="https://i.imgur.com/vA4ZNQL.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
 <div>
 <a href="https://replit.com/@Arx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
@@ -48,5 +48,5 @@
 CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
     <br>
 <
-  <a href="https://chat.whatsapp.com/DoWIJmbs5a3C25DxyV6OQA" target="blank"><img align="center" src="JOIN KALAN SUPPORTING GROUP" alt="KALAN SUPPORTING GROUP" height="50" width="300" /></a>
+  <a href="https://chat.whatsapp.com/DoWIJmbs5a3C25DxyV6OQA" target="blank"><img align="center" src="JOIN KALAN SUPPORTING GROUP" alt="KALAN SUPPORTING WHATSAPP GROUP" height="50" width="300" /></a>
 </p> 
