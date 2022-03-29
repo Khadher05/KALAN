@@ -14,7 +14,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://i.imgur.com/GQi3ysm.jpg" alt="GIF" width="300" height="280"/>
+<img src="https://i.imgur.com/vA4ZNQL.jpeg" alt="GIF" width="300" height="280"/>
 </p>
 
   <p align="center">
