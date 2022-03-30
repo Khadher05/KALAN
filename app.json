@@ -8,7 +8,7 @@
     "success_url": "https://github.com/Ajx-Abu/Sana-Mwol",
     "stack": "container",
     "env": {
-        "KALAN_CODE": {
+        "SANA_CODE": {
             "description": "Type the code when you got by scanning QR through WhatsApp.",
             "required": true
         },
@@ -148,7 +148,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": " KALAN ᴠᴀɴɴᴜ ɪɴɪ ᴘᴏᴡᴇʀ ᴀʏɪʀɪᴋᴋᴜᴍ🥂"
+            "value": " ᴋᴀʟᴀɴ ᴠᴀɴɴᴜ ɪɴɪ ᴘᴏᴡᴇʀ ᴀʏɪʀɪᴋᴋᴜᴍ🥂"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
